@@ -1,0 +1,12 @@
+# One Docker web service serves the site and the /api routes together, so there is no proxy to wire up.
+services:
+  - type: web
+    name: raushan-portfolio
+    runtime: docker
+    plan: free
+    healthCheckPath: /api/health
+    envVars:
+      - key: SARVAM_API_KEY
+        sync: false
+      - key: GROQ_API_KEY
+        sync: false

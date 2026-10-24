@@ -1,0 +1,9 @@
+services:
+  portfolio:
+    build: .
+    image: raushan-portfolio
+    restart: unless-stopped
+    ports:
+      - "8787:8787"
+    env_file:
+      - .env          # SARVAM_API_KEY and GROQ_API_KEY stay on the server, never in the browser

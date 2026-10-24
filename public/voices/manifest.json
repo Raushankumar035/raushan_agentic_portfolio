@@ -1,0 +1,174 @@
+{
+ "en-IN": {
+  "skills|Here’s where the agents live. LangGraph supervisors, MCP tools, and hand-offs to a human when it matters.": {
+   "file": "en-IN/662cbfba736ed985.mp3",
+   "text": "Here’s where the agents live. LangGraph supervisors, MCP tools, and hand-offs to a human when it matters.",
+   "src": "Here’s where the agents live. LangGraph supervisors, MCP tools, and hand-offs to a human when it matters."
+  },
+  "skills|Hey, I’m Skills. Everything he builds runs on the stars in this sky. Watch them light up.": {
+   "file": "en-IN/9dd7152ef3528adc.mp3",
+   "text": "Hey, I’m Skills. Everything he builds runs on the stars in this sky. Watch them light up.",
+   "src": "Hey, I’m Skills. Everything he builds runs on the stars in this sky. Watch them light up."
+  },
+  "skills|This is the brightest corner of the sky: voice. LiveKit, speech in, speech out, and turn-taking that feels natural. Go on, try talking to me.": {
+   "file": "en-IN/590b94693cc68155.mp3",
+   "text": "This is the brightest corner of the sky: voice. LiveKit, speech in, speech out, and turn-taking that feels natural. Go on, try talking to me.",
+   "src": "This is the brightest corner of the sky: voice. LiveKit, speech in, speech out, and turn-taking that feels natural. Go on, try talking to me."
+  },
+  "skills|Retrieval that shows its evidence. Hybrid search, reranking, and answers that cite their sources.": {
+   "file": "en-IN/6dca530c4a855fce.mp3",
+   "text": "Retrieval that shows its evidence. Hybrid search, reranking, and answers that cite their sources.",
+   "src": "Retrieval that shows its evidence. Hybrid search, reranking, and answers that cite their sources."
+  },
+  "skills|Agents need plumbing. Python and FastAPI do the heavy lifting behind every call.": {
+   "file": "en-IN/d9dc2506488a05f8.mp3",
+   "text": "Agents need plumbing. Python and FastAPI do the heavy lifting behind every call.",
+   "src": "Agents need plumbing. Python and FastAPI do the heavy lifting behind every call."
+  },
+  "skills|And it all has to run somewhere. Docker, AWS, and the guardrails and evals that make it trustworthy.": {
+   "file": "en-IN/4acf8b93e13b2265.mp3",
+   "text": "And it all has to run somewhere. Docker, AWS, and the guardrails and evals that make it trustworthy.",
+   "src": "And it all has to run somewhere. Docker, AWS, and the guardrails and evals that make it trustworthy."
+  },
+  "skills|New stars appear every month. Want to see what he built with all this? Projects is waiting.": {
+   "file": "en-IN/1977a3a4d36af59b.mp3",
+   "text": "New stars appear every month. Want to see what he built with all this? Projects is waiting.",
+   "src": "New stars appear every month. Want to see what he built with all this? Projects is waiting."
+  },
+  "projects|I’m Projects. Every moon around this world is something he built, from voice agents to RAG systems and multi-agent workflows.": {
+   "file": "en-IN/f1284852f67a0647.mp3",
+   "text": "I’m Projects. Every moon around this world is something he built, from voice agents to RAG systems and multi-agent workflows.",
+   "src": "I’m Projects. Every moon around this world is something he built, from voice agents to RAG systems and multi-agent workflows."
+  },
+  "projects|This one is a hotel receptionist. It answers guests on web calls and phone calls, and can ring them back too.": {
+   "file": "en-IN/606b4ebd76ca0d82.mp3",
+   "text": "This one is a hotel receptionist. It answers guests on web calls and phone calls, and can ring them back too.",
+   "src": "This one is a hotel receptionist. It answers guests on web calls and phone calls, and can ring them back too."
+  },
+  "projects|This one searches company documents with semantic and keyword search together, and answers with a local model.": {
+   "file": "en-IN/a32f741964f45c9e.mp3",
+   "text": "This one searches company documents with semantic and keyword search together, and answers with a local model.",
+   "src": "This one searches company documents with semantic and keyword search together, and answers with a local model."
+  },
+  "projects|This one would rather say it doesn’t know than make something up. Every answer comes with evidence.": {
+   "file": "en-IN/f2389149cff9296f.mp3",
+   "text": "This one would rather say it doesn’t know than make something up. Every answer comes with evidence.",
+   "src": "This one would rather say it doesn’t know than make something up. Every answer comes with evidence."
+  },
+  "projects|A travel planner built from specialist agents. They call flight, hotel and weather tools through MCP.": {
+   "file": "en-IN/3195b4b76a6998a6.mp3",
+   "text": "A travel planner built from specialist agents. They call flight, hotel and weather tools through MCP.",
+   "src": "A travel planner built from specialist agents. They call flight, hotel and weather tools through MCP."
+  },
+  "projects|Book, cancel or reschedule a dental appointment by chatting. A supervisor agent picks who handles it.": {
+   "file": "en-IN/26c2c19b5df41496.mp3",
+   "text": "Book, cancel or reschedule a dental appointment by chatting. A supervisor agent picks who handles it.",
+   "src": "Book, cancel or reschedule a dental appointment by chatting. A supervisor agent picks who handles it."
+  },
+  "projects|This moon benchmarks language models on writing SQL, and scores them by running the queries.": {
+   "file": "en-IN/2100674462404979.mp3",
+   "text": "This moon benchmarks language models on writing SQL, and scores them by running the queries.",
+   "src": "This moon benchmarks language models on writing SQL, and scores them by running the queries."
+  },
+  "projects|A model decides, plain code controls the action, and an LLM drafts the reply. Support tickets, triaged.": {
+   "file": "en-IN/ed8f35c0ba3303d9.mp3",
+   "text": "A model decides, plain code controls the action, and an LLM drafts the reply. Support tickets, triaged.",
+   "src": "A model decides, plain code controls the action, and an LLM drafts the reply. Support tickets, triaged."
+  },
+  "projects|It reads phone reviews and turns them into star ratings for camera, battery, display and more.": {
+   "file": "en-IN/46bd7876e436642f.mp3",
+   "text": "It reads phone reviews and turns them into star ratings for camera, battery, display and more.",
+   "src": "It reads phone reviews and turns them into star ratings for camera, battery, display and more."
+  },
+  "projects|That’s the archive. Though there is one tiny moon I didn’t show you. Experience is up next.": {
+   "file": "en-IN/d435c070287c45ff.mp3",
+   "text": "That’s the archive. Though there is one tiny moon I didn’t show you. Experience is up next.",
+   "src": "That’s the archive. Though there is one tiny moon I didn’t show you. Experience is up next."
+  },
+  "experience|I’m Experience. Each station on this ring is a chapter of his work and study. The newest ones are agents in production.": {
+   "file": "en-IN/050c1f0bbd9c4b28.mp3",
+   "text": "I’m Experience. Each station on this ring is a chapter of his work and study. The newest ones are agents in production.",
+   "src": "I’m Experience. Each station on this ring is a chapter of his work and study. The newest ones are agents in production."
+  },
+  "experience|The newest station: voice agents in production. This is where he works right now.": {
+   "file": "en-IN/12363d1241453208.mp3",
+   "text": "The newest station: voice agents in production. This is where he works right now.",
+   "src": "The newest station: voice agents in production. This is where he works right now."
+  },
+  "experience|Same company, different problem. A hybrid retrieval system that answers from internal documents.": {
+   "file": "en-IN/a253d3cf2fddfb15.mp3",
+   "text": "Same company, different problem. A hybrid retrieval system that answers from internal documents.",
+   "src": "Same company, different problem. A hybrid retrieval system that answers from internal documents."
+  },
+  "experience|And this is where it started: a master’s degree in computer applications, finished with an 8.92.": {
+   "file": "en-IN/5bd1308b4d1e9865.mp3",
+   "text": "And this is where it started: a master’s degree in computer applications, finished with an 8.92.",
+   "src": "And this is where it started: a master’s degree in computer applications, finished with an 8.92."
+  },
+  "experience|Titles change. These habits don’t.": {
+   "file": "en-IN/c5200522c8cc3bba.mp3",
+   "text": "Titles change. These habits don’t.",
+   "src": "Titles change. These habits don’t."
+  },
+  "experience|Want the story behind the stations? Journey flies the whole route.": {
+   "file": "en-IN/395927a505731a0a.mp3",
+   "text": "Want the story behind the stations? Journey flies the whole route.",
+   "src": "Want the story behind the stations? Journey flies the whole route."
+  },
+  "journey|I’m Journey. Hop on, we’re flying the whole route. It starts in 2020 with a BCA in Ranchi.": {
+   "file": "en-IN/cd843272ec9f7e94.mp3",
+   "text": "I’m Journey. Hop on, we’re flying the whole route. It starts in 2020 with a BCA in Ranchi.",
+   "src": "I’m Journey. Hop on, we’re flying the whole route. It starts in 2020 with a BCA in Ranchi."
+  },
+  "journey|Then the MCA at KL University. Python, machine learning, and a lot of side projects.": {
+   "file": "en-IN/64f355b88f710050.mp3",
+   "text": "Then the MCA at KL University. Python, machine learning, and a lot of side projects.",
+   "src": "Then the MCA at KL University. Python, machine learning, and a lot of side projects."
+  },
+  "journey|He finished the degree, and found agents. LLMs, retrieval and tool calling became the plan.": {
+   "file": "en-IN/29abfdb3ac54e445.mp3",
+   "text": "He finished the degree, and found agents. LLMs, retrieval and tool calling became the plan.",
+   "src": "He finished the degree, and found agents. LLMs, retrieval and tool calling became the plan."
+  },
+  "journey|October 2025. His first role as an Agentic AI Engineer, building a voice receptionist for hotels.": {
+   "file": "en-IN/acb3f5ea052ccac5.mp3",
+   "text": "October 2025. His first role as an Agentic AI Engineer, building a voice receptionist for hotels.",
+   "src": "October 2025. His first role as an Agentic AI Engineer, building a voice receptionist for hotels."
+  },
+  "journey|And this is now. Voice, retrieval, MCP and evals, and the trail keeps going.": {
+   "file": "en-IN/d4cecc04be83c272.mp3",
+   "text": "And this is now. Voice, retrieval, MCP and evals, and the trail keeps going.",
+   "src": "And this is now. Voice, retrieval, MCP and evals, and the trail keeps going."
+  },
+  "journey|Where does the path go next? That depends a little on you. Connect can explain.": {
+   "file": "en-IN/76672744632df403.mp3",
+   "text": "Where does the path go next? That depends a little on you. Connect can explain.",
+   "src": "Where does the path go next? That depends a little on you. Connect can explain."
+  },
+  "connect|I’m Connect. If you’ve made it this far, I think you two should talk.": {
+   "file": "en-IN/f0f11f9ab64203ae.mp3",
+   "text": "I’m Connect. If you’ve made it this far, I think you two should talk.",
+   "src": "I’m Connect. If you’ve made it this far, I think you two should talk."
+  },
+  "connect|Write him a message, and the relay will beam it straight to his inbox.": {
+   "file": "en-IN/fed73f9d437efd47.mp3",
+   "text": "Write him a message, and the relay will beam it straight to his inbox.",
+   "src": "Write him a message, and the relay will beam it straight to his inbox."
+  },
+  "connect|Prefer the usual channels? Here they all are.": {
+   "file": "en-IN/33b05e3ca8f66185.mp3",
+   "text": "Prefer the usual channels? Here they all are.",
+   "src": "Prefer the usual channels? Here they all are."
+  },
+  "connect|That’s the whole galaxy. Well, almost. There are signals hidden out there, if you’re the curious type.": {
+   "file": "en-IN/9e45b5da85f627bf.mp3",
+   "text": "That’s the whole galaxy. Well, almost. There are signals hidden out there, if you’re the curious type.",
+   "src": "That’s the whole galaxy. Well, almost. There are signals hidden out there, if you’re the curious type."
+  },
+  "core|You’re through to Raushan’s agents. What would you like to know?": {
+   "file": "en-IN/fa8ed332528fcb50.mp3",
+   "text": "You’re through to Raushan’s agents. What would you like to know?",
+   "src": "You’re through to Raushan’s agents. What would you like to know?"
+  }
+ }
+}
